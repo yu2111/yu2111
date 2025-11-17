@@ -1,5 +1,5 @@
 # 💫 About Me:
-![Header](./[<img width="3400" height="920" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/6023be11-9599-4ea7-907f-6cace4d2f73d" />])
+<img width="3400" height="920" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/6023be11-9599-4ea7-907f-6cace4d2f73d" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yu-sekiguchi/) 
