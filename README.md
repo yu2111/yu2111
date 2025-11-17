@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi! I'm Yu.<br>A full-stack developer based in Japan.
+![Header](<img width="3400" height="920" alt="github-header-banner (1)" src="https://github.com/user-attachments/assets/6023be11-9599-4ea7-907f-6cace4d2f73d" />)
+
 
 
 ## 🌐 Socials:
